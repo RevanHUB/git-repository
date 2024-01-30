@@ -1,0 +1,1 @@
+console.log("%c main console", "padding:20px; font-family:Calibri;")
